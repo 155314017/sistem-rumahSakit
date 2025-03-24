@@ -21,6 +21,7 @@ export default function BreadCrumbBasic({
                 position: "relative",
                 overflow: "hidden",
                 padding: "24px",
+                
             }}
         >
             <Box
